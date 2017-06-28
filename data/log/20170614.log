@@ -1,0 +1,312 @@
+[2017-06-14 14:22:57] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,gc_id,goods_spec,goods_contractid,invite_rates) VALUES ('460',NULL,NULL,NULL,'1',NULL,'0',NULL,'101','1','0','0',NULL,'','','0')
+[2017-06-14 14:22:57] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,gc_id,goods_spec,goods_contractid,invite_rates) VALUES ('462',NULL,NULL,NULL,'1',NULL,'0',NULL,'101','1','0','0',NULL,'','','0')
+[2017-06-14 14:22:58] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,gc_id,goods_spec,goods_contractid,invite_rates) VALUES ('464',NULL,NULL,NULL,'100',NULL,'0',NULL,'101','1','0','0',NULL,'','','0')
+[2017-06-14 14:22:58] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,gc_id,goods_spec,goods_contractid,invite_rates) VALUES ('465',NULL,NULL,NULL,'100',NULL,'0',NULL,'101','1','0','0',NULL,'','','0')
+[2017-06-14 14:22:58] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,gc_id,goods_spec,goods_contractid,invite_rates) VALUES ('466',NULL,NULL,NULL,'100',NULL,'0',NULL,'101','1','0','0',NULL,'','','0')
+[2017-06-14 14:22:58] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,gc_id,goods_spec,goods_contractid,invite_rates) VALUES ('467',NULL,NULL,NULL,'100',NULL,'0',NULL,'101','1','0','0',NULL,'','','0')
+[2017-06-14 19:53:38] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:53:39] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:53:48] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:53:48] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:54:30] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:54:30] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:56:30] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:56:30] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:57:19] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:57:19] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:57:55] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:57:55] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:58:22] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:58:22] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:58:41] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:58:41] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:58:53] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:58:53] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:59:00] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:59:00] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:59:26] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 19:59:26] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:00:11] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:00:11] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:00:32] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:00:32] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:00:38] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:00:38] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:00:52] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:00:52] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:01:14] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:01:14] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:03:07] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:03:07] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:03:30] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:03:30] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:03:54] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:03:54] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:09] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:09] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:24] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:24] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:38] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:39] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:39] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:39] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:39] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:04:39] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:05:59] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:05:59] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:06:36] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:06:36] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:07:31] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:07:31] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:07:38] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:07:38] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:07:56] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:07:56] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:09:07] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:09:07] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:10:24] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:10:25] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:10:43] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:10:43] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:12:10] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:12:10] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:12:23] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:12:23] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:12:44] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:12:44] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:12:55] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:12:55] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:13:25] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:13:25] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:13:53] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:13:53] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:14:10] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:14:10] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:14:32] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:14:32] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:15:05] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:15:05] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:15:13] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:15:13] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:15:35] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:15:35] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:15:49] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:15:49] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:16:01] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:16:01] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:16:03] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:16:03] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:16:13] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:16:13] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:16:15] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:16:15] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:17:01] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_sb_cash_log' doesn't exist
+SELECT * FROM `33hao_store_sb_cash_log` WHERE ( status = '1' ) LIMIT 1000  
+[2017-06-14 20:17:01] /Shopnc_b2b2c/index.php?act=store_wallet&op=index ( act=store_wallet&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_store_money_cash_log' doesn't exist
+SELECT * FROM `33hao_store_money_cash_log` WHERE ( status = '1' ) LIMIT 1000  

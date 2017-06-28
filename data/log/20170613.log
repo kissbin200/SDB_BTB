@@ -1,0 +1,51 @@
+[2017-06-13 10:29:28] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'area_id' cannot be null
+INSERT  INTO `33hao_address` (member_id,true_name,area_id,city_id,area_info,address,	tel_phone,mob_phone,is_default,	dlyp_id) VALUES ('101','水来了',NULL,NULL,'钓鱼岛钓鱼岛钓鱼岛','天堂与地狱之间','','13480127920','1','0')
+[2017-06-13 10:30:33] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'area_id' cannot be null
+INSERT  INTO `33hao_address` (member_id,true_name,area_id,city_id,area_info,address,	tel_phone,mob_phone,is_default,	dlyp_id) VALUES ('101','水来了',NULL,NULL,'钓鱼岛钓鱼岛钓鱼岛','天堂与地狱之间','','13480127920','1','0')
+[2017-06-13 10:30:33] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'area_id' cannot be null
+INSERT  INTO `33hao_address` (member_id,true_name,area_id,city_id,area_info,address,	tel_phone,mob_phone,is_default,	dlyp_id) VALUES ('101','水来了',NULL,NULL,'钓鱼岛钓鱼岛钓鱼岛','天堂与地狱之间','','13480127920','1','0')
+[2017-06-13 10:30:33] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'area_id' cannot be null
+INSERT  INTO `33hao_address` (member_id,true_name,area_id,city_id,area_info,address,	tel_phone,mob_phone,is_default,	dlyp_id) VALUES ('101','水来了',NULL,NULL,'钓鱼岛钓鱼岛钓鱼岛','天堂与地狱之间','','13480127920','1','0')
+[2017-06-13 10:30:34] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'area_id' cannot be null
+INSERT  INTO `33hao_address` (member_id,true_name,area_id,city_id,area_info,address,	tel_phone,mob_phone,is_default,	dlyp_id) VALUES ('101','水来了',NULL,NULL,'钓鱼岛钓鱼岛钓鱼岛','天堂与地狱之间','','13480127920','1','0')
+[2017-06-13 10:30:34] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('399',NULL,NULL,NULL,'1',NULL,'0',NULL,'101','1','0',NULL,'','','0')
+[2017-06-13 10:30:34] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'area_id' cannot be null
+INSERT  INTO `33hao_address` (member_id,true_name,area_id,city_id,area_info,address,	tel_phone,mob_phone,is_default,	dlyp_id) VALUES ('101','水来了',NULL,NULL,'钓鱼岛钓鱼岛钓鱼岛','天堂与地狱之间','','13480127920','1','0')
+[2017-06-13 10:30:34] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'area_id' cannot be null
+INSERT  INTO `33hao_address` (member_id,true_name,area_id,city_id,area_info,address,	tel_phone,mob_phone,is_default,	dlyp_id) VALUES ('101','水来了',NULL,NULL,'钓鱼岛钓鱼岛钓鱼岛','天堂与地狱之间','','13480127920','1','0')
+[2017-06-13 10:30:34] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('401',NULL,NULL,NULL,'1',NULL,'0',NULL,'101','1','0',NULL,'','','0')
+[2017-06-13 10:30:34] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'area_id' cannot be null
+INSERT  INTO `33hao_address` (member_id,true_name,area_id,city_id,area_info,address,	tel_phone,mob_phone,is_default,	dlyp_id) VALUES ('101','水来了',NULL,NULL,'钓鱼岛钓鱼岛钓鱼岛','天堂与地狱之间','','13480127920','1','0')
+[2017-06-13 10:30:34] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('403',NULL,NULL,NULL,'100',NULL,'0',NULL,'101','1','0',NULL,'','','0')
+[2017-06-13 10:30:34] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('404',NULL,NULL,NULL,'100',NULL,'0',NULL,'101','1','0',NULL,'','','0')
+[2017-06-13 10:30:35] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('405',NULL,NULL,NULL,'100',NULL,'0',NULL,'101','1','0',NULL,'','','0')
+[2017-06-13 11:14:14] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('411',NULL,NULL,NULL,'1',NULL,'0',NULL,'101','1','0',NULL,'','','0')
+[2017-06-13 11:14:15] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('413',NULL,NULL,NULL,'1',NULL,'0',NULL,'101','1','0',NULL,'','','0')
+[2017-06-13 11:42:28] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('423',NULL,NULL,NULL,'1',NULL,'0',NULL,'101','1','0',NULL,'','','0')
+[2017-06-13 11:42:29] /index.php?act=copysql&op=TradeToOrder ( act=copysql&op=tradetoorder ) 
+ERR: Db Error: Column 'goods_id' cannot be null
+INSERT  INTO `33hao_order_goods` (order_id,goods_id,goods_name,goods_price,goods_num,goods_image,goods_pay_price,store_id,buyer_id,goods_type,promotions_id,commis_rate,goods_spec,goods_contractid,invite_rates) VALUES ('425',NULL,NULL,NULL,'1',NULL,'0',NULL,'101','1','0',NULL,'','','0')

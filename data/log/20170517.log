@@ -1,0 +1,30 @@
+[2017-05-17 13:47:21] /Shopnc_b2b2c/shop/api/payment/wxpay/notify_water_appurl.php ( act=payment&op=wxpay_appw_notify ) 
+ERR: Db Error: Unknown column 'pay_sn' in 'where clause'
+SELECT * FROM `33hao_sb_recharge` WHERE ( pay_sn = '930547070872664002' ) LIMIT 1  
+[2017-05-17 20:44:17] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSchoolInfo&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608&pid=1 ( act=mobileapi&op=getuserschoolinfo ) 
+ERR: Db Error: Column 'log_member_id' cannot be null
+INSERT  INTO `33hao_cms_notify_log` (log_pid,log_member_id,log_type,log_add_time) VALUES ('1',NULL,'1','1495025057')
+[2017-05-17 20:46:18] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSchoolInfo&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608&pid=1 ( act=mobileapi&op=getuserschoolinfo ) 
+ERR: Db Error: Column 'log_member_id' cannot be null
+INSERT  INTO `33hao_cms_notify_log` (log_pid,log_member_id,log_type,log_add_time) VALUES ('1',NULL,'1','1495025178')
+[2017-05-17 20:46:32] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSchoolInfo&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608&pid=1 ( act=mobileapi&op=getuserschoolinfo ) 
+ERR: Db Error: Column 'log_member_id' cannot be null
+INSERT  INTO `33hao_cms_notify_log` (log_pid,log_member_id,log_type,log_add_time) VALUES ('1',NULL,'1','1495025192')
+[2017-05-17 20:46:50] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSchoolInfo&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608&pid=1 ( act=mobileapi&op=getuserschoolinfo ) 
+ERR: Db Error: Column 'log_member_id' cannot be null
+INSERT  INTO `33hao_cms_notify_log` (log_pid,log_member_id,log_type,log_add_time) VALUES ('1',NULL,'1','1495025210')
+[2017-05-17 20:52:08] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserMessageList&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getusermessagelist ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '2' ) AND ( log_pid = '2' ) AND ( log_member_id = '2' ) LIMIT 1  
+[2017-05-17 20:53:10] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSchoolList&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserschoollist ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) AND ( log_pid = '1' ) AND ( log_member_id = '2' ) LIMIT 1  
+[2017-05-17 20:53:38] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSchoolList&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserschoollist ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) AND ( log_pid = '1' ) AND ( log_member_id = '2' ) LIMIT 1  
+[2017-05-17 20:59:58] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserMessgCount&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-17 21:03:29] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserMessgCount&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  

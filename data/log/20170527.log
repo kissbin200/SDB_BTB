@@ -1,0 +1,15 @@
+[2017-05-27 10:33:27] /Shopnc_b2b2c/admin/modules/shop/index.php?act=order&op=get_xml ( act=order&op=get_xml ) 
+ERR: Db Error: Unknown column 'from_company' in 'where clause'
+SELECT * FROM `33hao_store` WHERE ( from_company = '3' ) LIMIT 1000  
+[2017-05-27 10:33:44] /Shopnc_b2b2c/admin/modules/shop/index.php?act=order&op=get_xml ( act=order&op=get_xml ) 
+ERR: Db Error: Unknown column 'from_company' in 'where clause'
+SELECT * FROM `33hao_store` WHERE ( from_company = '2' ) LIMIT 1000  
+[2017-05-27 10:33:49] /Shopnc_b2b2c/admin/modules/shop/index.php?act=order&op=get_xml ( act=order&op=get_xml ) 
+ERR: Db Error: Unknown column 'from_company' in 'where clause'
+SELECT * FROM `33hao_store` WHERE ( from_company = '2' ) LIMIT 1000  
+[2017-05-27 14:36:17] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSeeGoodsList&&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserseegoodslist ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  ORDER BY  goods_salenum DESC  LIMIT 1000' at line 1
+SELECT * FROM `33hao_goods` WHERE  `store_id` IN ()  ORDER BY  goods_salenum DESC  LIMIT 1000  
+[2017-05-27 14:36:25] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSeeGoodsList&&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserseegoodslist ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  ORDER BY  goods_salenum DESC  LIMIT 1000' at line 1
+SELECT * FROM `33hao_goods` WHERE  `store_id` IN ()  ORDER BY  goods_salenum DESC  LIMIT 1000  

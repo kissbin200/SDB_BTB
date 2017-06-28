@@ -1,0 +1,1320 @@
+[2017-05-19 09:37:44] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 09:40:03] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 09:40:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 09:40:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 09:52:41] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 09:52:44] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 09:52:47] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 09:59:27] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:04:50] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:05:04] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:05:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:06:11] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:06:11] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:06:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:07:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:08:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:09:50] /Shopnc_b2b2c/index.php?act=mobileApi&token=feb13e9050d705f0a29c4cc3ec092e20&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 15:15:30] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSchoolInfo&pid=undefined&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserschoolinfo ) 
+ERR: Db Error: Column 'log_type' cannot be null
+INSERT  INTO `33hao_cms_notify_log` (log_pid,log_member_id,log_type,log_add_time) VALUES ('undefined','2',NULL,'1495178130')
+[2017-05-19 16:28:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=745311be6882004b172f8dbfb3e0d1b8&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:28:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=745311be6882004b172f8dbfb3e0d1b8&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:28:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=745311be6882004b172f8dbfb3e0d1b8&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:28:50] /Shopnc_b2b2c/index.php?act=mobileApi&token=745311be6882004b172f8dbfb3e0d1b8&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:28:53] /Shopnc_b2b2c/index.php?act=mobileApi&token=745311be6882004b172f8dbfb3e0d1b8&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:30:11] /Shopnc_b2b2c/index.php?act=mobileApi&token=745311be6882004b172f8dbfb3e0d1b8&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:30:14] /Shopnc_b2b2c/index.php?act=mobileApi&token=745311be6882004b172f8dbfb3e0d1b8&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:30:35] /Shopnc_b2b2c/index.php?act=mobileApi&token=745311be6882004b172f8dbfb3e0d1b8&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:33:15] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:33:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:33:29] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:33:32] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:34:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:37:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:37:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:37:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:37:41] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:37:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:38:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:39:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=9ec39fe8e63ac6694c14c7df8dfe7558&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:40:44] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:41:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:41:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:41:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:41:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:41:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:41:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:45:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:45:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:45:24] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:54:15] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:54:30] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:54:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:55:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:55:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:59:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:59:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:59:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 16:59:50] /Shopnc_b2b2c/index.php?act=mobileApi&token=0b71275fbb19d5b4746b3ebc12290ac1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:01:05] /Shopnc_b2b2c/index.php?act=mobileApi&token=1c5dae9784f06180800a5710cd59032b&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:01:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=1c5dae9784f06180800a5710cd59032b&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:02:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=1c5dae9784f06180800a5710cd59032b&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:03:54] /Shopnc_b2b2c/index.php?act=mobileApi&token=e2c0d8e923c0df0dc98edc11ec8d60cb&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:09:09] /Shopnc_b2b2c/index.php?act=mobileApi&token=e2c0d8e923c0df0dc98edc11ec8d60cb&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:09:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=e2c0d8e923c0df0dc98edc11ec8d60cb&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:12:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=e2c0d8e923c0df0dc98edc11ec8d60cb&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:13:41] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:14:09] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:14:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:14:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:14:36] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:14:38] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:14:59] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:15:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:15:52] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:15:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:16:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:16:07] /Shopnc_b2b2c/index.php?act=mobileApi&token=6688908045b66b0b0bc20aab2f91f7ab&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:17:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:18:18] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:18:29] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:18:32] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:18:35] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:18:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:19:27] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:19:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:19:47] /Shopnc_b2b2c/index.php?act=mobileApi&token=134d0284d525aa5c9be66e9760f44bc1&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:20:35] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:20:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:23:02] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:24:51] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:26:27] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:26:56] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:26:59] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:28:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:28:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:37:11] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:37:40] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:38:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:40:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:40:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:42:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:42:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:44:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:44:45] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:45:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:46:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:46:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:47:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:47:03] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:47:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:47:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=5a5e2a944c111ca96261e83ae293f52f&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:47:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:47:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:47:30] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:48:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:50:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=60304058dfd78832e1f22986bbe8a35e&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 17:51:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=60304058dfd78832e1f22986bbe8a35e&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:01:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:01:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:01:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:01:53] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:01:54] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:01:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:01:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:02:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:02:30] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:02:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:02:45] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:03:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:04:16] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:04:25] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:04:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:05:03] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:05:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:05:21] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:06:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:06:46] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:06:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:06:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:08:21] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:08:29] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:08:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:08:33] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:09:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:10:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:10:16] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:10:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:10:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:10:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:10:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:10:56] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:11:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:11:27] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:12:04] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:12:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:12:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:12:21] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:12:25] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:13:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:14:15] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:18:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:19:38] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:23:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:23:35] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:23:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:24:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:24:52] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:25:02] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:25:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:25:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:25:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:25:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:31:59] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:32:05] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:32:07] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:33:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:35:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:35:25] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:37:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:37:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:37:55] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:43:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:46:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:46:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:46:29] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:49:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:49:40] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:49:45] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:50:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:51:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:51:05] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:51:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:51:54] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:52:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:52:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:52:51] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:52:55] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:52:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:53:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:53:02] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 18:53:04] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:02:03] /Shopnc_b2b2c/index.php?act=mobileApi&token=e0060fb9a342994383bb0863b7fd1620&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:40] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:41] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:45] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:47] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:52] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:12:54] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:13:05] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:13:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:13:35] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:15:44] /Shopnc_b2b2c/index.php?act=mobileApi&token=fea7b7423ac39aa8c1098658b3b068d9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:15:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=fea7b7423ac39aa8c1098658b3b068d9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:15:55] /Shopnc_b2b2c/index.php?act=mobileApi&token=fea7b7423ac39aa8c1098658b3b068d9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:16:21] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:17:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:17:40] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:17:46] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:18:36] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:18:41] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:18:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:18:46] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:18:48] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:18:51] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:18:53] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:18:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:14] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:20] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:23] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:33] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:48] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:19:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:20:21] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:20:27] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:20:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:20:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:20:59] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:21:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:21:36] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:21:38] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:23:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:04] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:15] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:24:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:25:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:25:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:25:40] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:26:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:26:11] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:27:47] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:27:50] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:27:52] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:15] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:16] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:24] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:28] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:30] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:28:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:29:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:32:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:32:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:32:15] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:32:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:32:56] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:35:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:35:04] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:35:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=e47b0917a98f03f7e6242b2e1e2ef8f5&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:35:09] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:35:55] /Shopnc_b2b2c/index.php?act=mobileApi&token=c8c974389e4224fe680dde36da4574b8&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:36:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=c8c974389e4224fe680dde36da4574b8&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:36:03] /Shopnc_b2b2c/index.php?act=mobileApi&token=c8c974389e4224fe680dde36da4574b8&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:36:07] /Shopnc_b2b2c/index.php?act=mobileApi&token=c8c974389e4224fe680dde36da4574b8&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:36:23] /Shopnc_b2b2c/index.php?act=mobileApi&token=c8c974389e4224fe680dde36da4574b8&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:37:07] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:37:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=f4f86979bf3166136b548a2c6049dc3d&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:37:18] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:37:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=f4f86979bf3166136b548a2c6049dc3d&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:37:20] /Shopnc_b2b2c/index.php?act=mobileApi&token=7d014bd3bc95e3f159a21001e5f894be&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:37:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=f4f86979bf3166136b548a2c6049dc3d&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:38:38] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=1db23846d926eae76113e28758f56e57&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:41] /Shopnc_b2b2c/index.php?act=mobileApi&token=1db23846d926eae76113e28758f56e57&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:46] /Shopnc_b2b2c/index.php?act=mobileApi&token=1db23846d926eae76113e28758f56e57&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:46] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:50] /Shopnc_b2b2c/index.php?act=mobileApi&token=1db23846d926eae76113e28758f56e57&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:51] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:53] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:54] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:39:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=1db23846d926eae76113e28758f56e57&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:40:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:40:38] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:40:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:40:48] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 19:40:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:05:52] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:06:14] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:06:18] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:06:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:07:02] /Shopnc_b2b2c/index.php?act=mobileApi&token=480088d7d2549725db81067ebc9aec57&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:08:55] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:11:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:11:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:12:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:13:56] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:16:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:18:09] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:18:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:18:14] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:18:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=76208ee3f57102b88e1a4b5cc1d1acce&op=getUserMessgCount&mobile=13556880069 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:21:29] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:21:33] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:21:50] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:22:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:22:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:22:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:22:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:22:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:22:32] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:22:36] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:23:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:23:11] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:23:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:23:21] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:23:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:23:30] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:24:09] /Shopnc_b2b2c/index.php?act=mobileApi&token=316fef4d0c0d44ba662a7d78a6fc7853&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:25:05] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:25:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:26:16] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:26:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:26:25] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:26:27] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:26:29] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:26:30] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:27:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:28:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:28:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:30:19] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:32:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:32:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:32:44] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:32:56] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:33:25] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:34:18] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:34:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:34:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:35:14] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:35:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:35:32] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:36:07] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:36:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:36:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:36:53] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:36:56] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:36:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:02] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:04] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:06] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:08] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:09] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:11] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:13] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:17] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:18] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:21] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:22] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:24] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:27] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:29] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:30] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:33] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:38] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:41] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:52] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:53] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:56] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:37:57] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:32] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:35] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:40] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:42] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:45] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:49] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:52] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:56] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:38:58] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:03] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:05] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:07] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:14] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:15] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:16] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:23] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:24] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:26] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:27] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:29] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:31] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:32] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:34] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:35] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:37] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:39] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:39:43] /Shopnc_b2b2c/index.php?act=mobileApi&token=9981a0548b3f27e338456a44bb3892c9&op=getUserMessgCount&mobile=13713956265 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:40:00] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:40:01] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:40:03] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:40:10] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:40:12] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:40:14] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:40:32] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:41:21] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  
+[2017-05-19 20:41:24] /Shopnc_b2b2c/index.php?act=mobileApi&token=22f42b0062ff2cd634dbc4c20ba8c4ae&op=getUserMessgCount&mobile=17722600565 ( act=mobileapi&op=getusermessgcount ) 
+ERR: Db Error: Unknown column 'cms_type' in 'where clause'
+SELECT * FROM `33hao_cms_notify_log` WHERE ( cms_type = '1' ) LIMIT 1000  

@@ -1,0 +1,201 @@
+[2017-05-16 11:16:27] /Shopnc_b2b2c/index.php?act=store_goods_add&op=save_goods ( act=store_goods_add&op=save_goods ) 
+ERR: Db Error: Unknown column 'goods_distorage' in 'field list'
+INSERT  INTO `33hao_goods_common` (goods_name,goods_jingle,gc_id,gc_id_1,gc_id_2,gc_id_3,gc_name,brand_id,brand_name,type_id,goods_image,goods_price,goods_marketprice,goods_costprice,goods_discount,goods_serial,goods_storage_alarm,goods_distorage,goods_barcode,goods_attr,goods_custom,goods_body,mobile_body,goods_commend,goods_state,goods_addtime,goods_selltime,goods_verify,store_id,store_name,spec_name,spec_value,goods_vat,areaid_1,areaid_2,transport_id,transport_title,goods_freight,goods_stcids,plateid_top,plateid_bottom,is_virtual,virtual_indate,virtual_limit,virtual_invalid_refund,sup_id,is_own_shop) VALUES ('空空2号','','633','593','599','633','食品饮料 &gt;饮料冲调 &gt;水','','','0','2_05482485786433674.jpg','0.01','0.01','0.02','100','','255','222','','N;','N;','','','1','1','1494904586','0','1','2','测试水厂店铺','N;','N;','0','0','0','0','','0','','0','0','0','0','0','0','0','0')
+[2017-05-16 11:19:25] /Shopnc_b2b2c/index.php?act=store_goods_add&op=save_goods ( act=store_goods_add&op=save_goods ) 
+ERR: Db Error: Unknown column 'goods_distorage' in 'field list'
+INSERT  INTO `33hao_goods_common` (goods_name,goods_jingle,gc_id,gc_id_1,gc_id_2,gc_id_3,gc_name,brand_id,brand_name,type_id,goods_image,goods_price,goods_marketprice,goods_costprice,goods_discount,goods_serial,goods_storage_alarm,goods_distorage,goods_barcode,goods_attr,goods_custom,goods_body,mobile_body,goods_commend,goods_state,goods_addtime,goods_selltime,goods_verify,store_id,store_name,spec_name,spec_value,goods_vat,areaid_1,areaid_2,transport_id,transport_title,goods_freight,goods_stcids,plateid_top,plateid_bottom,is_virtual,virtual_indate,virtual_limit,virtual_invalid_refund,sup_id,is_own_shop) VALUES ('空空2号','','633','593','599','633','食品饮料 &gt;饮料冲调 &gt;水','','','0','2_05475575915659858.jpg','0.01','0.01','0.01','100','','255','222','','N;','N;','','','1','1','1494904765','0','1','2','测试水厂店铺','N;','N;','0','0','0','0','','0','','0','0','0','0','0','0','0','0')
+[2017-05-16 14:52:36] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=480548261457683002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494917556')
+[2017-05-16 17:05:43] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494925543')
+[2017-05-16 18:46:45] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=750548257794012002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494931605')
+[2017-05-16 18:46:57] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494931617')
+[2017-05-16 18:47:01] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494931621')
+[2017-05-16 18:47:05] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494931625')
+[2017-05-16 18:47:08] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494931628')
+[2017-05-16 18:47:11] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494931631')
+[2017-05-16 18:47:27] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=830548261247095002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494931646')
+[2017-05-16 19:35:16] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934516')
+[2017-05-16 19:35:59] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934559')
+[2017-05-16 19:36:06] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934566')
+[2017-05-16 19:36:10] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934570')
+[2017-05-16 19:36:12] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=980548269303328002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934572')
+[2017-05-16 19:37:44] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934664')
+[2017-05-16 19:37:48] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934667')
+[2017-05-16 19:37:48] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934668')
+[2017-05-16 19:37:49] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934669')
+[2017-05-16 19:37:49] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934669')
+[2017-05-16 19:37:49] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934669')
+[2017-05-16 19:37:49] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934669')
+[2017-05-16 19:37:50] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934669')
+[2017-05-16 19:37:50] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934670')
+[2017-05-16 19:37:50] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934670')
+[2017-05-16 19:37:50] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934670')
+[2017-05-16 19:37:50] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934670')
+[2017-05-16 19:37:51] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934671')
+[2017-05-16 19:37:51] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934671')
+[2017-05-16 19:37:59] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934679')
+[2017-05-16 19:38:09] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934688')
+[2017-05-16 19:38:10] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934690')
+[2017-05-16 19:38:11] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934691')
+[2017-05-16 19:38:12] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934692')
+[2017-05-16 19:38:13] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934693')
+[2017-05-16 19:38:13] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934693')
+[2017-05-16 19:38:14] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934694')
+[2017-05-16 19:38:14] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934694')
+[2017-05-16 19:38:14] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934694')
+[2017-05-16 19:38:14] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934694')
+[2017-05-16 19:38:14] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934694')
+[2017-05-16 19:38:15] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934695')
+[2017-05-16 19:38:15] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934695')
+[2017-05-16 19:38:15] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934695')
+[2017-05-16 19:38:15] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934695')
+[2017-05-16 19:38:15] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934695')
+[2017-05-16 19:38:16] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934695')
+[2017-05-16 19:38:16] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934696')
+[2017-05-16 19:38:16] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934696')
+[2017-05-16 19:38:18] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934698')
+[2017-05-16 19:38:24] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=980548269303328002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934704')
+[2017-05-16 19:38:58] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934738')
+[2017-05-16 19:38:58] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934738')
+[2017-05-16 19:38:59] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=980548269303328002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934739')
+[2017-05-16 19:39:06] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=120548266686285002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934746')
+[2017-05-16 19:39:22] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934762')
+[2017-05-16 19:39:26] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=980548269303328002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934766')
+[2017-05-16 19:39:28] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=940548268597965002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934768')
+[2017-05-16 19:39:29] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=940548268597965002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934769')
+[2017-05-16 19:39:31] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934771')
+[2017-05-16 19:39:37] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934777')
+[2017-05-16 19:39:38] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=980548269303328002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934778')
+[2017-05-16 19:39:49] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934788')
+[2017-05-16 19:39:53] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=980548269303328002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934793')
+[2017-05-16 19:39:59] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934799')
+[2017-05-16 19:40:06] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserOrderAbrogate&osn=570548269334662002&mobile=15177120981&token=70be29308a37a16d36e02fae6edc8608 ( act=mobileapi&op=getuserorderabrogate ) 
+ERR: Db Error: Column 'order_id' cannot be null
+INSERT  INTO `33hao_order_log` (order_id,log_role,log_msg,log_user,log_orderstate,log_time) VALUES (NULL,'买家','取消了订单 ( 用户取消 )','sllsll','0','1494934806')

@@ -1,0 +1,24 @@
+[2017-06-28 11:02:03] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'add_time' in 'where clause'
+SELECT  SUM(order_amount) as orderamount,DAY(FROM_UNIXTIME(order_add_time)) as dayval,HOUR(FROM_UNIXTIME(order_add_time)) as hourval  FROM `33hao_stat_order` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498406400' AND '1498579199' ) ) GROUP BY dayval,hourval LIMIT 1000  
+[2017-06-28 11:02:51] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'add_time' in 'where clause'
+SELECT  SUM(order_amount) as orderamount,DAY(FROM_UNIXTIME(order_add_time)) as dayval,HOUR(FROM_UNIXTIME(order_add_time)) as hourval  FROM `33hao_stat_order` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498406400' AND '1498579199' ) ) GROUP BY dayval,hourval LIMIT 1000  
+[2017-06-28 11:03:01] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=general ( act=stat_general&op=general ) 
+ERR: Db Error: Unknown column 'add_time' in 'where clause'
+SELECT  SUM(order_amount) as orderamount,DAY(FROM_UNIXTIME(order_add_time)) as dayval,HOUR(FROM_UNIXTIME(order_add_time)) as hourval  FROM `33hao_stat_order` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498406400' AND '1498579199' ) ) GROUP BY dayval,hourval LIMIT 1000  
+[2017-06-28 11:05:04] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'order_add_time' in 'field list'
+SELECT  SUM(order_amount) as orderamount,DAY(FROM_UNIXTIME(order_add_time)) as dayval,HOUR(FROM_UNIXTIME(order_add_time)) as hourval  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498406400' AND '1498579199' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-28 11:05:18] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'order_add_time' in 'field list'
+SELECT  SUM(order_amount) as orderamount,DAY(FROM_UNIXTIME(order_add_time)) as dayval,HOUR(FROM_UNIXTIME(order_add_time)) as hourval  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498406400' AND '1498579199' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-28 11:15:46] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1497974400' AND '1498579199' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-28 14:24:24] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1497974400' AND '1498579199' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-28 14:25:35] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1497974400' AND '1498579199' ) ) ORDER BY order_id desc LIMIT 1000  

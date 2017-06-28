@@ -1,0 +1,18 @@
+[2017-06-23 15:54:15] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSeeGoodsList&token=70be29308a37a16d36e02fae6edc8608&mobile=15177120981&page=2 ( act=mobileapi&op=getuserseegoodslist ) 
+ERR: Db Error: Unknown column 'buyer' in 'where clause'
+SELECT * FROM `33hao_member_seller` WHERE ( buyer = '2' ) AND ( seller_id = '2' ) LIMIT 1  
+[2017-06-23 15:54:15] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSeeGoodsList&token=70be29308a37a16d36e02fae6edc8608&mobile=15177120981&page=2 ( act=mobileapi&op=getuserseegoodslist ) 
+ERR: Db Error: Unknown column 'buyer' in 'where clause'
+SELECT * FROM `33hao_member_seller` WHERE ( buyer = '2' ) AND ( seller_id = '2' ) LIMIT 1  
+[2017-06-23 15:54:15] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSeeGoodsList&token=70be29308a37a16d36e02fae6edc8608&mobile=15177120981&page=2 ( act=mobileapi&op=getuserseegoodslist ) 
+ERR: Db Error: Unknown column 'buyer' in 'where clause'
+SELECT * FROM `33hao_member_seller` WHERE ( buyer = '2' ) AND ( seller_id = '2' ) LIMIT 1  
+[2017-06-23 15:54:43] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSeeGoodsList&token=70be29308a37a16d36e02fae6edc8608&mobile=15177120981&page=2 ( act=mobileapi&op=getuserseegoodslist ) 
+ERR: Db Error: Unknown column 'buyer' in 'where clause'
+SELECT * FROM `33hao_member_seller` WHERE ( buyer = '2' ) AND ( seller_id = '2' ) LIMIT 1  
+[2017-06-23 15:54:43] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSeeGoodsList&token=70be29308a37a16d36e02fae6edc8608&mobile=15177120981&page=2 ( act=mobileapi&op=getuserseegoodslist ) 
+ERR: Db Error: Unknown column 'buyer' in 'where clause'
+SELECT * FROM `33hao_member_seller` WHERE ( buyer = '2' ) AND ( seller_id = '2' ) LIMIT 1  
+[2017-06-23 15:54:43] /Shopnc_b2b2c/index.php?act=mobileApi&op=getUserSeeGoodsList&token=70be29308a37a16d36e02fae6edc8608&mobile=15177120981&page=2 ( act=mobileapi&op=getuserseegoodslist ) 
+ERR: Db Error: Unknown column 'buyer' in 'where clause'
+SELECT * FROM `33hao_member_seller` WHERE ( buyer = '2' ) AND ( seller_id = '2' ) LIMIT 1  
