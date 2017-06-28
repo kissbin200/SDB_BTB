@@ -19,7 +19,17 @@
 	</div>
 	<div class="ncap-form-all ncap-stat-general">
 		<div class="title">
-			<h3><!-- <?php echo @date('Y-m-d',$output['stat_time']);?> -->至今新情报</h3>
+			<h3><!-- <?php echo @date('Y-m-d',$output['stat_time']);?> --><?php if ($_GET['search_year'] != '' && $_GET['search_moon'] != '') { ?><?php echo $_GET['search_year']; ?>年<?php echo $_GET['search_moon']; ?>月情报 <?php }else{ ?> 至今新情报 <?php } ?>【下单量、下单金额、下单客户数、平均客单价】</h3>
+			<select name="search_year" class="search_year">
+				<?php for ($i=2015; $i < 2026 ; $i++) {  ?>
+					<option value="<?php echo $i ?>" <?php if ($_GET['search_year'] == $i) { ?> selected = "selected" <?php } ?>  ><?php echo $i ?>年</option>
+				<?php } ?>
+			</select>
+			<select name="search_moon" id="search" class="search_moon">
+				<?php for ($i=1; $i < 13 ; $i++) {  ?>
+					<option value="<?php echo $i ?>" <?php if ($_GET['search_moon'] == $i) { ?> selected = "selected" <?php } ?> ><?php echo $i ?>月</option>
+				<?php } ?>
+			</select>
 		</div>
 		<dl class="row">
 			<dd class="opt">
@@ -180,5 +190,15 @@ $(function () {
 		});
 
 	$('#container').highcharts(<?php echo $output['stattoday_json'];?>);
+
+	$('#search').change(function(){
+		var search_year = $('.search_year').val();
+		var search_moon = $('.search_moon').val();
+		
+		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_moon ;
+
+		location.href = url;
+
+	})
 });
 </script>

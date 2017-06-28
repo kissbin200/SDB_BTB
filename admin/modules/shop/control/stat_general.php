@@ -79,9 +79,15 @@ class stat_generalControl extends SystemControl{
 			$where['store_id'] = array('in',$order_sid_arr);
 		}
 
+		if ($_GET['search_year'] != '' && $_GET['search_moon'] != '') {
+			$stime = strtotime($_GET['search_year']."-".$_GET['search_moon']."-01");
+			$etime = strtotime($_GET['search_year']."-".($_GET['search_moon']+1)."-01") - 1;
+			$where['add_time'] = array('between',array($stime,$etime));
+		}
+
 		//查询订单表下单量、下单金额、下单客户数、平均客单价
 		$where['order_state'] = array('egt',20);
-		// $where['add_time'] = array('between',array($stime,$etime));
+		
 		$field = ' COUNT(*) as ordernum, SUM(order_amount) as orderamount, COUNT(DISTINCT buyer_id) as ordermembernum, AVG(order_amount) as orderavg ';
 		$stat_orderq = Model('order') -> getOrderList($where,'',$field);
 		// var_dump($where);
