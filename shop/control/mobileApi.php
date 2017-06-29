@@ -144,13 +144,17 @@ class mobileApiControl extends BaseGoodsControl {
 
 
 			//查询商品是否有返利政策、用户是否参与   
-			$goodspri = Model('privilege') -> getPrivilegeInfo(array('goods_id'=>$gd['goods_id'],'privilege_status'=>1));
+			$in_store_vip = Model('member_seller') -> getMemberSeller(array('seller_id'=>$gd['store_id'],'buyer_id'=>$Verify['info']['member_id']));
+			$goodspri = Model('privilege') -> getPrivilegeInfo(array('goods_id'=>$gd['goods_id'],'privilege_status'=>1,'privilege_vip_type'=>$in_store_vip['vip_id']));
 			// $goodspri = Model('privilege') -> getPrivilegeInfo(array('goods_id'=>$gd['goods_id']));
 			if (!empty($goodspri)) {
-				$Goods_Find_Info[$ky]['goodsPri'] = '1';
-				$userpri = Model('signed') -> findSigned(array('pid'=>$goodspri['id'],'user_id'=>$Verify['info']['member_id']));
-				if (!empty($userpri)) {
-					$Goods_Find_Info[$ky]['userPri'] = '1';
+				//查询用户是否为该水厂的会员
+				if (!empty($in_store_vip)) {
+					$Goods_Find_Info[$ky]['goodsPri'] = '1';
+					$userpri = Model('signed') -> findSigned(array('pid'=>$goodspri['id'],'user_id'=>$Verify['info']['member_id']));
+					if (!empty($userpri)) {
+						$Goods_Find_Info[$ky]['userPri'] = '1';
+					}
 				}
 			}
 		}

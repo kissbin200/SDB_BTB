@@ -19,8 +19,8 @@
 	</div>
 	<div class="ncap-form-all ncap-stat-general">
 		<div class="title">
-			<h3><!-- <?php echo @date('Y-m-d',$output['stat_time']);?> --><?php if ($_GET['search_year'] != '' && $_GET['search_moon'] != '') { ?><?php echo $_GET['search_year']; ?>年<?php echo $_GET['search_moon']; ?>月情报 <?php }else{ ?> 至今新情报 <?php } ?>【下单量、下单金额、下单客户数、平均客单价】</h3>
-			<select name="search_year" class="search_year">
+			<h3><!-- <?php echo @date('Y-m-d',$output['stat_time']);?> --><?php if ($_GET['search_year'] != '' && $_GET['search_moon'] != '') { ?><?php echo $_GET['search_year']; ?>至<?php echo $_GET['search_moon']; ?>的情报 <?php }else{ ?> 至今新情报 <?php } ?>【下单量、下单金额、下单客户数、平均客单价】</h3>
+			<!-- <select name="search_year" class="search_year">
 				<?php for ($i=2015; $i < 2026 ; $i++) {  ?>
 					<option value="<?php echo $i ?>" <?php if ($_GET['search_year'] == $i) { ?> selected = "selected" <?php } ?>  ><?php echo $i ?>年</option>
 				<?php } ?>
@@ -29,7 +29,16 @@
 				<?php for ($i=1; $i < 13 ; $i++) {  ?>
 					<option value="<?php echo $i ?>" <?php if ($_GET['search_moon'] == $i) { ?> selected = "selected" <?php } ?> ><?php echo $i ?>月</option>
 				<?php } ?>
-			</select>
+			</select> -->
+			<input class="input-txt search_year" type="text" name="starttime" id="starttime" style="width: 120px !important;" value="<?php echo $_GET['search_year']; ?>">
+			<input class="input-txt search_moon" type="text" name="endtime" id="endtime" style="width: 120px !important;" value="<?php echo $_GET['search_moon']; ?>">
+			<input type="button" value="确定" class="search" id="search">
+			<input type="submit" value="昨日" class="yesterday" id="yesterday">
+			<input type="submit" value="前日" class="beforeyesterday" id="beforeyesterday">
+			<input type="submit" value="最近7日" class="Sevenday" id="Sevenday">
+			<input type="submit" value="最近30日" class="Thirtyday" id="Thirtyday">
+
+
 		</div>
 		<dl class="row">
 			<dd class="opt">
@@ -191,14 +200,41 @@ $(function () {
 
 	$('#container').highcharts(<?php echo $output['stattoday_json'];?>);
 
-	$('#search').change(function(){
+	$('#search').click(function(){
 		var search_year = $('.search_year').val();
 		var search_moon = $('.search_moon').val();
-		
 		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_moon ;
-
 		location.href = url;
-
+	});
+	$('#yesterday').click(function(){
+		var day = new Date();
+		var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-1) ;
+		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_year ;
+		location.href = url;
+	});
+	$('#beforeyesterday').click(function(){
+		var day = new Date();
+		var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-2) ;
+		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_year ;
+		location.href = url;
+	});
+	$('#Sevenday').click(function(){
+		var day = new Date();
+		var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-7) ;
+		var search_moon = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()) ;
+		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_moon ;
+		location.href = url;
+	});
+	$('#Thirtyday').click(function(){
+		var day = new Date();
+		var search_year = day.getFullYear() + "-" + (day.getMonth()) + "-" +  (day.getDate()) ;
+		var search_moon = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()) ;
+		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_moon ;
+		location.href = url;
+	});
+	$(document).ready(function(){
+		$("#starttime").datepicker({dateFormat: 'yy-mm-dd'});
+		$("#endtime").datepicker({dateFormat: 'yy-mm-dd'});
 	})
 });
 </script>

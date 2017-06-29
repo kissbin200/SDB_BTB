@@ -80,9 +80,13 @@ class stat_generalControl extends SystemControl{
 		}
 
 		if ($_GET['search_year'] != '' && $_GET['search_moon'] != '') {
-			$stime = strtotime($_GET['search_year']."-".$_GET['search_moon']."-01");
-			$etime = strtotime($_GET['search_year']."-".($_GET['search_moon']+1)."-01") - 1;
+			$stime = strtotime($_GET['search_year']." 00:00:00");
+			$etime = strtotime($_GET['search_moon']." 23:59:59");
+			if ($stime  > $etime) {
+				showMessage('参数错误', 'index.php?act=stat_general&op=index', 'html', 'error');
+			}
 			$where['add_time'] = array('between',array($stime,$etime));
+			// var_dump($where);exit;
 		}
 
 		//查询订单表下单量、下单金额、下单客户数、平均客单价
@@ -120,7 +124,7 @@ class stat_generalControl extends SystemControl{
 			$where['from_company'] = $back_company['id'];
 		}
 		$field = ' COUNT(*) as newmember ';
-		// var_dump($where);exit;
+
 		$stat_member = $model->getoneByMember($where, $field);
 		$statnew_arr['newmember'] = ($t = $stat_member['newmember'])?$t:0;
 		unset($stat_member);
