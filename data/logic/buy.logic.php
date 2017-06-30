@@ -995,6 +995,8 @@ class buyLogic {
 			}            
 		}
 
+
+
 		$pay_sn = $this->_logic_buy_1->makePaySn($member_id);
 		$order_pay = array();
 		$order_pay['pay_sn'] = $pay_sn;
@@ -1014,12 +1016,14 @@ class buyLogic {
 				$jjgValidStoreSkus[$vv['store_id']][] = $vv;
 			}
 		}
+
+		// var_dump($store_cart_list);
 		foreach ($store_cart_list as $store_id => $goods_list) {
 			//取得本店优惠额度(后面用来计算每件商品实际支付金额，结算需要)
 			$promotion_total = !empty($store_promotion_total[$store_id]) ? $store_promotion_total[$store_id] : 0;
 
 			//本店总的优惠比例,保留3位小数
-//             $should_goods_total = $store_final_order_total[$store_id]-$store_freight_total[$store_id]+$promotion_total;
+			// $should_goods_total = $store_final_order_total[$store_id]-$store_freight_total[$store_id]+$promotion_total;
 			$should_goods_total = $store_goods_total[$store_id];
 			$promotion_rate = abs(number_format($promotion_total/$should_goods_total,5));
 			if ($promotion_rate <= 1) {
@@ -1034,17 +1038,20 @@ class buyLogic {
 			$order_common = array();
 			$order_goods = array();
 
-			//重新计算价格
+			
+			// //重新计算价格
 			foreach ($goods_list as $key => $row) {
+				// var_dump($row);
 				$member_vip = Model('member_seller') -> getMemberSeller(array('buyer_id'=>$member_id,'seller_id'=>$store_id));
-				if ($member_vip['vip_id'] > 0) {
-					$vip_info = Model('member_vip') -> getMemberVip(array('vip_level_seller_id'=>$store_id,'id'=>$member_vip['vip_id']));
+				if ($row['store_id'] == $store_id) {
 					$goods_price_vip = unserialize($row['goods_price_vip']);
-					if ($goods_price_vip) {
-						$total_price += $goods_price_vip[$vip_info['vip_level_name']] * $row['goods_num'];
+					if ($member_vip['vip_id'] > 0 && !empty($goods_price_vip)) {
+						$vip_info = Model('member_vip') -> getMemberVip(array('vip_level_seller_id'=>$store_id,'id'=>$member_vip['vip_id']));
+						$total_price_vip[$store_id] += $goods_price_vip[$vip_info['vip_level_name']] * $row['goods_num'];
 					}else{
-						$total_price += $row['goods_price'] * $row['goods_num'];
+						$total_price_pt[$store_id] += $row['goods_price'] * $row['goods_num'];
 					}
+					$store_final_order_total[$store_id] = $total_price_vip[$store_id] + $total_price_pt[$store_id];
 				}
 			}
 			
@@ -1059,15 +1066,16 @@ class buyLogic {
 			$order['add_time'] = TIMESTAMP;
 			$order['payment_code'] = $store_pay_type_list[$store_id];
 			$order['order_state'] = $store_pay_type_list[$store_id] == 'offline' ? ORDER_STATE_PAY : ORDER_STATE_NEW;
-			// $order['order_amount'] = $store_final_order_total[$store_id];
-			$order['order_amount'] = $total_price;
+			$order['order_amount'] = $store_final_order_total[$store_id];
+			// $order['order_amount'] = $total_price_vip + $total_price_pt;
 			$order['shipping_fee'] = $store_freight_total[$store_id];
 			$order['goods_amount'] = $order['order_amount'] - $order['shipping_fee'] + $store_rpt_total[$store_id];
 			$order['order_from'] = $order_from;
 			$order['order_type'] = $input_chain_id ? 3 : ($goods_list[0]['is_book'] ? 2 : 1);
 			$order['chain_id'] = $input_chain_id ? $input_chain_id : 0;
 			$order['rpt_amount'] = empty($store_rpt_total[$store_id]) ? 0 : $store_rpt_total[$store_id] ;
-
+			
+			// var_dump($order);exit;
 			$order_id = $model_order->addOrder($order);
 			if (!$order_id) {
 				throw new Exception('订单保存失败[未生成订单数据]');
@@ -1112,10 +1120,10 @@ class buyLogic {
 			}
 
 			//折扣值
-//             if ($orderdiscount[$store_id]) {
-//                 $order_common['discount'] = $orderdiscount[$store_id];
-//                 $order_common['promotion_info'] .= '<dl class="nc-store-sales"><dt>会员等级折扣</dt><dd>'.addslashes(sprintf(' [V%s]级会员享受原价%s折',$member_level,$orderdiscount[$store_id]/10)).'</dd></dl>';
-//             }
+					// if ($orderdiscount[$store_id]) {
+					//     $order_common['discount'] = $orderdiscount[$store_id];
+					//     $order_common['promotion_info'] .= '<dl class="nc-store-sales"><dt>会员等级折扣</dt><dd>'.addslashes(sprintf(' [V%s]级会员享受原价%s折',$member_level,$orderdiscount[$store_id]/10)).'</dd></dl>';
+					// }
 
 			//代金券
 			if (isset($input_voucher_list[$store_id])){

@@ -14,6 +14,7 @@ class mobilepaymentApiControl extends BaseGoodsControl {
 		$this->mch_id = "1388299902";
 		$this->notify_url = SHOP_SITE_URL.'/api/payment/wxpay/notify_appurl.php';
 		$this->notify2_url = SHOP_SITE_URL.'/api/payment/wxpay/notify_water_appurl.php';
+		$this->notify3_url = SHOP_SITE_URL.'/api/payment/wxpay/notify_saoma_appurl.php';
 		$this->key = "kdhvergrgjxiymi11jeq4d3521rl0xvm";
 
 		parent::__construct ();
@@ -187,7 +188,76 @@ class mobilepaymentApiControl extends BaseGoodsControl {
 		return $result;
 	}
 
+	/**
+	 * [wxpaystep3Op 微信扫码支付]
+	 * @return [type] [description]
+	 */
+	public function wxpaystep3Op(){
+		// $token = $_GET['token'];
+		// $mobile = $_GET['mobile']; //用户ID
+		// $Verify = $this -> VerifyUser($mobile,$token);
+		// if ($Verify['state'] == '1') {
+		// 	echo json_encode(array('code'=>'2000','msg'=>'无效用户'));
+		// 	exit;
+		// }
 
+		$params['body'] = '向水来了订货平台充值水币';                       //商品描述
+		$params['out_trade_no'] = $_GET['pdr_sn'];    //自定义的订单号
+		$params['total_fee'] = $_GET['pdr_fee']*100;                       //订单金额 只能为整数 单位为分
+		$params['trade_type'] = 'NATIVE';                      //交易类型 JSAPI | NATIVE | APP | WAP 
+		$result = $this->unifiedPdr( $params );
+
+		if ($result['return_code'] == 'FAIL') {
+			exit(json_encode(array('code'=>'2000','msg'=>$result['return_msg'])));
+		}else{	
+			if ($result['result_code'] == 'FAIL') {
+				exit(json_encode(array('code'=>'2000','msg'=>$result['err_code_des'])));
+			}else{
+				exit(json_encode(array('code'=>'1000','msg'=>'获取成功','data'=>$result)));
+				// return $result['code_url'];
+			}	
+		}
+	}
+
+
+	/**
+	 * 统一下单方法
+	 * @param   $params 下单参数
+	 */
+	private function unifiedSaoma( $params ){
+		$this->body = $params['body'];
+		$this->out_trade_no = $params['out_trade_no'];
+		$this->total_fee = $params['total_fee'];
+		$this->trade_type = $params['trade_type'];
+		$this->nonce_str = $this->genRandomString();
+		$this->spbill_create_ip = $_SERVER['REMOTE_ADDR'];
+		$this->params['appid'] = $this->appid;
+		$this->params['mch_id'] = $this->mch_id;
+		$this->params['nonce_str'] = $this->nonce_str;
+		$this->params['body'] = $this->body;
+		$this->params['out_trade_no'] = $this->out_trade_no;
+		$this->params['total_fee'] = $this->total_fee;
+		$this->params['spbill_create_ip'] = $this->spbill_create_ip;
+		$this->params['notify_url'] = $this->notify2_url;
+		$this->params['trade_type'] = $this->trade_type;
+		$this->params['attach'] = "appwxpay";
+		//获取签名数据
+		$this->sign = $this->MakeSign( $this->params );
+		$this->params['sign'] = $this->sign;
+
+		$xml = $this->data_to_xml($this->params);
+		$response = $this->postXmlCurl($xml, "https://api.mch.weixin.qq.com/pay/unifiedorder");
+		
+		if( !$response ){
+			return false;
+		}
+		$result = $this->xml_to_data( $response );
+		
+		if( !empty($result['result_code']) && !empty($result['err_code']) ){
+			$result['err_msg'] = $this->error_code( $result['err_code'] );
+		}
+		return $result;
+	}
 
 
 	/**

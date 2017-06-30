@@ -208,27 +208,58 @@ $(function () {
 	});
 	$('#yesterday').click(function(){
 		var day = new Date();
-		var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-1) ;
+		
+		if (day.getMonth() == '0' && day.getDate() == '1') {
+			var search_year = (day.getFullYear()-1) + "-12-31" ;
+		}else{
+			var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-1) ;
+		}
+
 		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_year ;
 		location.href = url;
 	});
 	$('#beforeyesterday').click(function(){
 		var day = new Date();
 		var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-2) ;
+
+		if (day.getMonth() == '0' && (day.getDate() == '1' || day.getDate() == '2')) {
+			if (day.getDate() == '1') {
+				var search_year = (day.getFullYear()-1) + "-12-30" ;
+			}else{
+				var search_year = (day.getFullYear()-1) + "-12-31" ;
+			}
+		}else{
+			var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-2) ;
+		}
+
 		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_year ;
 		location.href = url;
 	});
 	$('#Sevenday').click(function(){
 		var day = new Date();
-		var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-7) ;
 		var search_moon = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()) ;
+		var timestamp = Date.parse(search_moon);
+		timestamp = timestamp / 1000;
+		var sevenago = (timestamp - (60*60*24*7)) * 1000;
+
+		var d=new Date(sevenago);
+		var search_year = formatDate(d);
+		// var search_year = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()-7) ;
 		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_moon ;
 		location.href = url;
 	});
 	$('#Thirtyday').click(function(){
 		var day = new Date();
-		var search_year = day.getFullYear() + "-" + (day.getMonth()) + "-" +  (day.getDate()) ;
+		// var search_year = day.getFullYear() + "-" + (day.getMonth()) + "-" +  (day.getDate()) ;
 		var search_moon = day.getFullYear() + "-" + (day.getMonth()+1) + "-" +  (day.getDate()) ;
+
+		var timestamp = Date.parse(search_moon);
+		timestamp = timestamp / 1000;
+		var sevenago = (timestamp - (60*60*24*30)) * 1000;
+
+		var d=new Date(sevenago);
+		var search_year = formatDate(d);
+
 		var url = "index.php?act=stat_general&op=index&search_year="+ search_year + "&search_moon=" + search_moon ;
 		location.href = url;
 	});
@@ -237,4 +268,11 @@ $(function () {
 		$("#endtime").datepicker({dateFormat: 'yy-mm-dd'});
 	})
 });
+
+function formatDate(now) { 
+	var year=now.getFullYear(); 
+	var month=now.getMonth()+1; 
+	var date=now.getDate(); 
+	return year+"-"+month+"-"+date ; 
+} 
 </script>

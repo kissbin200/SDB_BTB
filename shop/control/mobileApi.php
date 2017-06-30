@@ -537,6 +537,7 @@ class mobileApiControl extends BaseGoodsControl {
 				$model_order = Model('order');
 				$update['payment_code'] = $pay_name ;
 				$update['order_state'] = 20;
+
 				$UpEidt = $model_order -> editOrder($update,array('pay_sn'=>$result['data']['pay_sn']));
 				if ($UpEidt) {
 					exit(json_encode(array('code'=>'1000','msg'=>'操作成功','data'=>$pay_name)));

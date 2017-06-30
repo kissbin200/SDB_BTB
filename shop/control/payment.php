@@ -749,6 +749,64 @@ class paymentControl extends BaseHomeControl{
 
 	}
 
+	/**
+	 * [wxpay_appsaoma_notifyOp AAP微信扫码支付，更新订单状态]
+	 * @return [type] [description]
+	 */
+	public function wxpay_appsaoma_notifyOp(){
+		require_once BASE_PATH.'/api/payment/wxpay/log.php';
+
+		//初始化日志
+		$logHandler= new CLogFileHandler(BASE_DATA_PATH.'/log/wxpay/'.date('Y-m-d').'.log');
+		$log = Logs::Init($logHandler, 15);
+
+		//获取从微信传来的信息
+		$input = file_get_contents('php://input');
+		$obj = (array)simplexml_load_string($input, 'SimpleXMLElement', LIBXML_NOCDATA);
+		Logs::DEBUG("wxpay back:" . json_encode($obj));
+
+
+		if ($obj['result_code'] == 'SUCCESS' && $obj['return_code'] == 'SUCCESS' ){
+			//修改订单
+			$order = Model('order') -> getOrderList(array('pay_sn'=>$obj['out_trade_no']));
+			if (empty($order)) {
+				$data['msg'] = '未能找到订单，微信交易号:'.$obj['transaction_id'];
+				Logs::DEBUG("call back:" . json_encode($data));
+				echo 'FAIL';//返回给微信确认
+				exit;
+			}
+
+			foreach ($order as $key => $ord) {
+				//修改状态
+				$upOrd['order_state'] = 40;
+				// $upOrd['payment_code'] = $obj['attach'];
+				$upOrd['payment_time'] = time();
+				Model('order') -> editOrder($upOrd,array('order_sn'=>$ord['order_sn']));
+
+				//订单处理历史表
+				$addOrdlog['order_id'] = $ord['order_id'];
+				$addOrdlog['log_msg'] = 'APP微信扫码支付订单';
+				$addOrdlog['log_role'] = 'buyer';
+				$addOrdlog['log_user'] = $ord['buyer_name'];
+				$addOrdlog['log_orderstate'] = '20';
+				Model('order') -> addOrderLog($addOrdlog);
+
+				//订单支付表
+				$upOrdpay['api_pay_state'] = '1';
+				Model('order') -> editOrderPay($upOrdpay,array('pay_sn'=>$obj['out_trade_no']));
+			}
+			echo 'SUCCESS';//返回给微信确认
+		}else{
+			$data['msg'] = '支付失败，订单支付号：'.$obj['out_trade_no'];
+			Logs::DEBUG("call eorr back:" . json_encode($data));
+			echo 'FAIL';//返回给微信确认
+		}
+
+
+
+
+	}
+
 	public function query_stateOp() {
 		if ($_GET['pay_id'] && intval($_GET['pay_id']) > 0) {
 			$info = Model('order')->getOrderPayInfo(array('pay_id'=>intval($_GET['pay_id']),'buyer_id'=>intval($_GET['buyer_id'])));

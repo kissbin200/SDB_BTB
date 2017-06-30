@@ -1,0 +1,189 @@
+[2017-06-29 09:43:21] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:03:14] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:09:00] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017&search_moon=5 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:21:56] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:22:07] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:24:52] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:27:25] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:27:36] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:40:10] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:40:26] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:40:51] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:41:13] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:42:51] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:44:40] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:44:57] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:52:07] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:55:23] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:56:11] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 14:58:03] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:05:28] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:05:52] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:05:57] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:06:07] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:06:48] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:07:14] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:07:22] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:07:45] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:08:09] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:08:49] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:09:06] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:09:40] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:11:01] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:11:13] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-06-01&search_moon=2017-06-30 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:12:11] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:12:20] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-06-01&search_moon=2017-06-30 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:13:33] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:13:41] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-06-01&search_moon=2017-06-30 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:23:46] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:24:19] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:24:49] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:25:47] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:26:23] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:27:21] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:27:52] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:28:27] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:28:35] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-28&search_moon=2017-6-28 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:30:13] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:30:16] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-27&search_moon=2017-6-27 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:40:51] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:40:53] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-28&search_moon=2017-6-28 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:40:56] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-27&search_moon=2017-6-27 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:40:59] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-22&search_moon=2017-6-29 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:41:14] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-5-29&search_moon=2017-6-29 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:41:26] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-28&search_moon=2017-6-28 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:41:28] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-27&search_moon=2017-6-27 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:41:32] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-22&search_moon=2017-6-29 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:41:41] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-5-29&search_moon=2017-6-29 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:42:45] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-08-11&search_moon=2017-6-29 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:44:11] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-08-11&search_moon=2017-6-29 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:44:12] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:44:15] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-6-28&search_moon=2017-6-28 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:44:19] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index&search_year=2017-06-30&search_moon=2017-6-28 ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
+[2017-06-29 15:46:32] /Shopnc_b2b2c/admin/modules/shop/index.php?act=stat_general&op=index ( act=stat_general&op=index ) 
+ERR: Db Error: Unknown column 'goods_num' in 'field list'
+SELECT  sum(goods_num) as ordergoodsnum, goods_id, min(goods_name) as goods_name  FROM `33hao_orders` WHERE ( order_state >= '20' ) AND (  (add_time BETWEEN '1498060800' AND '1498665599' ) ) ORDER BY order_id desc LIMIT 1000  
