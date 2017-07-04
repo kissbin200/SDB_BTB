@@ -636,9 +636,25 @@ class mobileApiControl extends BaseGoodsControl {
 		$list = array_values($list);
 
 		foreach ($list as $key => $value) {
-			$img = $value['extend_order_goods'];
-			$list[$key]['extend_order_goods'][0]['goods_image'] = cthumb($img[0]['goods_image'],60,$g['store_id']);
-		
+			
+
+			for ($i=0; $i < count($list[$key]['extend_order_goods']); $i++) { 
+				$img = $value['extend_order_goods'];
+				$list[$key]['extend_order_goods'][$i]['goods_image'] = cthumb($img[$i]['goods_image'],60,$g['store_id']);
+
+				// 会员价格
+				$member_vip = Model('member_seller') -> getMemberSeller(array('buyer_id'=>$Verify['info']['member_id'],'seller_id'=>$value['store_id']));
+				$goods_info = Model('goods') -> getGoodsInfoByID($value['extend_order_goods'][$i]['goods_id']);
+				// var_dump($goods_info);
+				if ($member_vip['vip_id'] > 0) {
+					$vip_info = Model('member_vip') -> getMemberVip(array('vip_level_seller_id'=>$value['store_id'],'id'=>$member_vip['vip_id']));
+					
+					$goods_price_vip = unserialize($goods_info['goods_price_vip']);
+					if ($goods_price_vip) {
+						$list[$key]['extend_order_goods'][$i]['goods_price']= $goods_price_vip[$vip_info['vip_level_name']];
+					}
+				}
+			}
 		}
 
 		if (!empty($list)) {
@@ -1630,6 +1646,8 @@ class mobileApiControl extends BaseGoodsControl {
 		$ste =  str_replace(array('0','1','2','3','4'),array('rebate_','rebate_one','rebate_moon','rebate_quarter','rebate_year'),$ste);
 		
 		$getforblack = " `pdr_member_id` = '{$Verify['info']['member_id']}' and `pdr_payment_code` like '%{$ste}%' and `pdr_payment_state` = '1' ";
+
+		// echo $getforblack;
 		$sb_recharge = Model('predeposit') -> getPdRechargeSbList($getforblack,'','*',' pdr_add_time DESC ');
 		foreach ($sb_recharge as $key => $sre) {
 			$sb_recharge[$key]['pdr_payment_code'] = str_replace(array('rebate_one','rebate_moon','rebate_quarter','rebate_year'),array('每笔','每月','每季度','每年'),$sre['pdr_payment_code']);
@@ -2057,6 +2075,97 @@ class mobileApiControl extends BaseGoodsControl {
 		}
 
 		exit(json_encode(array('code'=>'1000','msg'=>'有效的支付密码')));
+	}
+
+	/**
+	 * [getUserSeeGiveListOp 用户看到水厂返还自定义水币]
+	 * @return [type] [description]
+	 */
+	public function getUserSeeGiveListOp(){
+		$token = $_GET['token'];
+		$mobile = $_GET['mobile']; //用户ID
+		$Verify = $this -> VerifyUser($mobile,$token);
+		if ($Verify['state'] == '1') {
+			echo json_encode(array('code'=>'3000','msg'=>'无效用户'));
+			exit;
+		}
+
+		$GiveList = array();
+		$where = array();
+		$where['buyer_id'] = $Verify['info']['member_id'];
+		$where['stutas'] = 1;
+		$seelist = Model('store_getsb') -> where($where) -> select();
+		foreach ($seelist as $key => $row) {
+			$store_info = Model('store') -> where(array('store_id'=>$row['seller_id'])) -> find();
+			$GiveList[$key]['store_name'] = $store_info['store_name'];
+			$GiveList[$key]['ago'] = $row['ago'];
+			// $GiveList[$key]['connit'] = "来自".$store_info['store_name'].$row['connit'];
+		}
+
+		exit(json_encode(array('code'=>'1000','msg'=>'操作成功','data'=>$GiveList)));
+	}
+
+	/**
+	 * [getUserSeeGiveOp 用户领取水币]
+	 * @return [type] [description]
+	 */
+	public function getUserSeeGiveOp(){
+		$token = $_GET['token'];
+		$mobile = $_GET['mobile']; //用户ID
+		$Verify = $this -> VerifyUser($mobile,$token);
+		if ($Verify['state'] == '1') {
+			echo json_encode(array('code'=>'3000','msg'=>'无效用户'));
+			exit;
+		}
+
+		$give_id = intval($_GET['id']);
+		$condition = array();
+		$condition['id'] = $give_id;
+		$data = array();
+		$data['give_time'] = TIMESTAMP;
+		$data['stutas'] = 2;
+
+		$give_sb_info = Model('store_getsb') -> where($condition)->find(); 
+		$store_info = Model('store') -> where(array('store_id'=>$give_sb_info['seller_id'])) -> find();
+
+		$updata = Model('store_getsb') -> where($condition)->update($data);
+		if ($updata) {
+			// 用户获得水币
+			$data_user_sb['water_fee'] = array('exp','water_fee+'.$give_sb_info['ago']);
+			$a = Model('member') -> editMember(array('member_id'=>$give_sb_info['buyer_id']),$data_user_sb);
+
+			//写入水币记录表(买家)
+			$posit['pdr_sn'] = Model('predeposit') -> makeSn();
+			$posit['pdr_member_id'] = $Verify['info']['member_id'];
+			$posit['pdr_member_name'] = $Verify['info']['member_name'];
+			$posit['pdr_amount'] = $give_sb_info['ago'];
+			$posit['pdr_payment_code'] = 'rebate_moon';
+			$posit['pdr_payment_name'] =  '来自'.$store_info['store_name'].'的返利';
+			$posit['pdr_add_time'] = TIMESTAMP;
+			$posit['pdr_payment_state'] = '1';
+			$posit['pdr_payment_time'] = TIMESTAMP;
+			$posit['code_info'] = serialize(array('goods_name'=>'加盟月返','store_name'=>$store_info['store_name']));
+			Model('predeposit') -> addPdRechargeSb($posit);
+
+			//写入水币记录表(卖家)
+			$log_sb_add = array();
+			$log_sb_add['log_store_name'] = $store_info['store_name'];
+			$log_sb_add['log_store_id'] = $store_info['store_id'];
+			$log_sb_add['log_type'] = 'sb_rebate';
+			$log_sb_add['log_fee'] = '-'.$give_sb_info['ago'];
+			$log_sb_add['log_add_time'] = TIMESTAMP;
+			$log_sb_add['log_desc'] = "确认按自定义返还水币，返还给： ".$Verify['info']['member_name'];
+			Model('store') -> addStoreSbLog($log_sb_add);
+
+			//减少商家水币金额
+			$data_sb['water_fee'] = array('exp','water_fee-'.$give_sb_info['ago']);
+			Model('store') -> editStore($data_sb,array('store_id'=>$store_info['store_id']));
+
+			exit(json_encode(array('code'=>'1000','msg'=>'操作成功')));
+		}else{
+			exit(json_encode(array('code'=>'2000','msg'=>'操作失败')));
+		}
+
 	}
 
 }

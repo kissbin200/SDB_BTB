@@ -25,6 +25,8 @@
 			<th>会员等级</th>
 			<th>注册时间</th>
 			<th class="w100">最后登录时间</th>
+			<th>赠予水币</th>
+
 		</tr>
 	</thead>
 	<tbody>
@@ -43,6 +45,7 @@
 			</td>
 			<td><?php echo date('Y-m-d H:i:s',$val['info']['member_time']); ?></td>
 			<td><?php echo date('Y-m-d H:i:s',$val['info']['member_old_login_time']); ?></td>
+			<td><a href="javascript:void(0)" class="ncbtn ncbtn-mint" nc_type="dialog" dialog_title="等级编辑" dialog_id="my_goods_brand_edit" dialog_width="480" uri="index.php?act=store_vip&op=vip_addsb&vip_id=<?php echo $val['buyer_id']; ?>">赠予</a></td>
 		</tr>
 		<?php } ?>
 		<?php } else { ?>

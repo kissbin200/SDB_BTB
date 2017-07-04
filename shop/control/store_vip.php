@@ -128,6 +128,83 @@ class store_vipControl extends BaseSellerControl{
 		echo json_encode($meg);
 	}
 
+
+	public function sblistOp(){
+		$moon = strtotime($_GET['moon']);
+		$moon = $moon ? $moon : TIMESTAMP;
+		
+		$stime = strtotime(date('Y-m',$moon)."-01");
+		$etime =strtotime(date('Y',$moon)."-".(date('m',$moon)+1)."-01")-1;
+
+		$where = array();
+		$where['seller_id'] = $_SESSION['seller_id'];
+		$where['add_time'] = array('between',array($stime,$etime));
+		$give_list = Model('store_getsb') -> where($where) -> select();
+		foreach ($give_list as $key => $row) {
+			$member_info = Model('member') -> where(array('member_id'=>$row['buyer_id'])) -> find();
+			$give_list[$key]['member_name'] = $member_info['member_name'];
+		}
+		
+		Tpl::output('list',$give_list);
+		self::profile_menu('vip_give');
+		Tpl::showPage('store_vip_sblist_index');
+	}
+
+	public function vip_addsbOp(){
+		$uid = intval($_GET['vip_id']);
+		$member_info = Model('member') -> where(array('member_id'=>$uid)) -> find();
+
+		Tpl::output('member_info',$member_info);
+		Tpl::showPage('store_vip_addsb','null_layout');
+	}
+
+	public function seva_getsbOp(){
+		//检测是否有同月的数据
+		$moon_data = Model('store_getsb') -> where(array('buyer_id'=>$_POST['vip_id'],'seller_id'=>$_SESSION['seller_id'])) -> select();
+		if (!empty($moon_data)) {
+			foreach ($moon_data as $ky => $row) {
+				$add_time[] = date('Y-d',$row['add_time']);
+			}
+			$today = date('Y-d',TIMESTAMP);
+
+			if (in_array($today,$add_time)) {
+				showDialog('这个月已赠予','index.php?act=store_vip&op=index','error',empty($_GET['inajax']) ?'':'CUR_DIALOG.close();');
+			}else{
+				//创建数据
+				$data = array();
+				$data['seller_id'] = $_SESSION['seller_id'];
+				$data['buyer_id'] = $_POST['vip_id'];
+				$data['ago'] = $_POST['getsb'];
+				$data['connit'] = $_POST['connit'];
+				$data['add_time'] = TIMESTAMP;
+
+				$add_data = Model('store_getsb') -> insert($data);
+				if ($add_data) {
+					showDialog('操作成功','index.php?act=store_vip&op=index','succ',empty($_GET['inajax']) ?'':'CUR_DIALOG.close();');
+				}else{
+					showDialog('操作失败','index.php?act=store_vip&op=index','error',empty($_GET['inajax']) ?'':'CUR_DIALOG.close();');
+				}
+			}
+		}else{
+			//创建数据
+			$data = array();
+			$data['seller_id'] = $_SESSION['seller_id'];
+			$data['buyer_id'] = $_POST['vip_id'];
+			$data['ago'] = $_POST['getsb'];
+			$data['connit'] = $_POST['connit'];
+			$data['add_time'] = TIMESTAMP;
+
+			$add_data = Model('store_getsb') -> insert($data);
+			if ($add_data) {
+				showDialog('操作成功','index.php?act=store_vip&op=index','succ',empty($_GET['inajax']) ?'':'CUR_DIALOG.close();');
+			}else{
+				showDialog('操作失败','index.php?act=store_vip&op=index','error',empty($_GET['inajax']) ?'':'CUR_DIALOG.close();');
+			}
+		}
+		
+	}
+
+
 	/**
 	 * 用户中心右边，小导航
 	 *
@@ -140,6 +217,7 @@ class store_vipControl extends BaseSellerControl{
 		$menu_array =array(
 				array('menu_key'=>'vip_list','menu_name'=>'会员列表', 'menu_url'=>'index.php?act=store_vip&op=index'),
 				array('menu_key'=>'vip_level','menu_name'=>'会员等级','menu_url'=>'index.php?act=store_vip&op=level'),
+				array('menu_key'=>'vip_give','menu_name'=>'赠送水币列表','menu_url'=>'index.php?act=store_vip&op=sblist'),
 				);
 		Tpl::output('member_menu',$menu_array);
 		Tpl::output('menu_key',$menu_key);
