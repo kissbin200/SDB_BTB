@@ -117,8 +117,8 @@
 				<dt>会员价<?php echo $lang['nc_colon'];?></dt>
 				<dd>
 					<?php foreach ($output['vip_list'] as $key => $row) { ?>
-						<?php if (empty($row['vip_level_name'])) { ?>
-							<input name="g_vip_name[]" type="text" class="text w60" style="background:#E7E7E7 none;" value=" <?php echo $key ?> " readonly />
+						<?php if (!preg_match("/[\x7f-\xff]/",$row['vip_level_name'])) { ?>
+							<input name="g_vip_name[]" type="text" class="text w60" style="background:#E7E7E7 none;" value=" <?php echo $key ?>" readonly />
 							<input name="g_vip_costprice[]" value="<?php echo $row ?>" type="text" class="text w60" /><em class="add-on"><i class="icon-renminbi"></i></em><br>
 						<?php }else{ ?>
 							<input name="g_vip_name[]" type="text" class="text w60" style="background:#E7E7E7 none;" value=" <?php echo $row['vip_level_name'] ?> " readonly />

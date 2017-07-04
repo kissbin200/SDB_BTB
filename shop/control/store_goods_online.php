@@ -120,8 +120,8 @@ class store_goods_onlineControl extends BaseSellerControl {
 
 		//会员等级价格
 		$vip_list = unserialize($goodscommon_info['goods_price_vip']);
-
-		if (!$vip_list) {
+		
+		if (empty($vip_list) || $vip_list == '') {
 			$vip_list = Model('member_vip') -> getMemberViplist(array('vip_level_seller_id'=>$_SESSION['store_id']));
 		}
 

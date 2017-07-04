@@ -125,6 +125,26 @@ class seller_centerControl extends BaseSellerControl {
 		$phone_array = explode(',',C('site_phone'));
 		Tpl::output('phone_array',$phone_array);
 
+		//订单收货检查
+		if ($store_info['over_day'] > 0) {
+			$order_list = Model('order')->getOrderList(array('store_id'=>$_SESSION['store_id'],'order_state'=>30),'','*','order_id desc','',array('order_common'));
+			foreach ($order_list as $key => $row) {
+				$time = $row['extend_order_common']['shipping_time'];
+				$over_get = TIMESTAMP - $time ;
+				$ctime = 60*60*24*$store_info['over_day'];
+				if ($over_get > $ctime ) {
+					//执行自动收货
+					$over_get_where = array();
+					$over_get_where['order_id'] = $row['order_id'];
+					$over_get_updata = array();
+					$over_get_updata['order_state'] = 40;
+					$over_get_updata['finnshed_time'] = TIMESTAMP;
+					Model('order') -> editOrder($over_get_updata,$over_get_where);
+				}
+			}
+		}
+
+
 		//系统公告
 		$model_message  = Model('article');
 		$condition = array();

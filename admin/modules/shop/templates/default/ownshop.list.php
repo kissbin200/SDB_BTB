@@ -6,6 +6,7 @@
 			<div class="subject">
 				<h3>自营供应商</h3>
 				<h5>自营供应商相关设置与管理</h5>
+
 			</div>
 		</div>
 	</div>
@@ -35,7 +36,8 @@ $(function(){
 						{display: '商家账号', name : 'seller_name', width : 120, sortable : false, align: 'left'},            
 						{display: '当前状态', name : 'store_state', width : 80, sortable : true, align: 'center'},
 						{display: '绑定所有类目', name : 'bind_all_gc', width : 120, sortable : false, align : 'left'},
-						{display: '水币操作', name : 'add_sb', width : 120, sortable : false, align : 'left'}
+						{display: '水币操作', name : 'add_sb', width : 120, sortable : false, align : 'left'},
+						{display: '设置收货时间', name : 'over_time', width : 120, sortable : false, align : 'left'}
 						],
 				buttons : [
 			{display: '<i class="fa fa-plus"></i>新增供应商', name : 'add', bclass : 'add', title : '添加一条新数据到列表', onpress : fg_operation }
@@ -49,6 +51,21 @@ $(function(){
 				sortorder: "asc",
 				title: '供应商列表'
 		});
+
+		//修改水厂自动收货时间
+		$("#flexigrid").on('blur', '.day',function(){
+			var nday = $(this).val(); //天数
+			var pid = $(this).attr("pid"); //ID
+			
+			$.getJSON('index.php?act=ownshop&op=over_day',{day:nday,pid:pid},function(data){
+				if (data.state) {
+					showSucc(data.msg)
+				}else{
+					showError(data.msg)
+				}
+			})
+		});
+
 });
 
 function fg_operation(name, bDiv) {
@@ -68,4 +85,5 @@ function fg_delete(id) {
 				});
 		}
 }
+
 </script>

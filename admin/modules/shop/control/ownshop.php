@@ -574,8 +574,35 @@ Tpl::setDirquna('shop');
 			$param['store_state'] = $value['store_state']?L('open'):L('close');
 			$param['bind_all_gc'] = $value['bind_all_gc']?"是":"否";
 			$param['add_sb'] =  "<a class='btn blue' href='index.php?act=ownshop&op=add_sb&id=".$value['store_id']."'><i class='fa fa-pencil-square-o'></i>增加</a>";
+
+			$param['over_time'] = "<input type=\"text\" value=\"{$value['over_day']}\" class=\"day input-txt w20\"  pid=\"{$value['store_id']}\" name=\"day\"  >天";
 			$data['list'][$value['store_id']] = $param;
 		}
 		echo Tpl::flexigridXML($data);exit();
 	}
+
+
+	public function over_dayOp(){
+		$day = $_GET['day'];
+		$pid = $_GET['pid'];
+
+		if ($day < 0) {
+			exit(json_encode(array('state'=>false,'msg'=>'时间不能为负数')));
+		}
+
+		$update['over_day'] = $day;
+		$where['store_id'] = $pid;
+		$result = Model('store') -> editStore($update,$where);
+		if ($result) {
+			exit(json_encode(array('state'=>true,'msg'=>'修改成功')));
+				
+		}else{
+			exit(json_encode(array('state'=>false,'msg'=>'错误未知')));
+		}
+		
+	}
+
+
+
+
 }
